@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Neha Priya Singh
 
-<!--
-**NehaPriya21/NehaPriya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technology Manager | Data Scientist | Product & Business Analyst  
 
-Here are some ideas to get you started:
+### 🔍 About Me  
+- Passionate about **data science, analytics, product management, and automation**  
+- Skilled in **Python, SQL, Power BI, Tableau, ML, NLP, and Data Visualization**  
+- Exploring **AI, Business Intelligence, and CRM automation**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do  
+- **🔍 Data Analytics & Visualization** – Transforming raw data into actionable insights  
+- **📈 Machine Learning & NLP** – Building predictive models and AI-driven solutions  
+- **💼 Product & Business Analysis** – Bridging business needs with tech innovations  
+- **⚡ Automation & CRM Development** – Optimizing workflows with low/no-code platforms  
+
+### 📂 Projects & Contributions  
+- 🚗 **Vehicle Price Prediction** – Predicting vehicle prices using ML models  
+- 💬 **COVID-19 Chatbot** – NLP-powered chatbot for real-time COVID-19 updates  
+- ❤️ **Heart Disease Analysis** – Data-driven insights for predicting heart disease risks  
+- ✈️ **Flight Data Analysis** – Extracting trends and insights from airline data  
+
+### 🔗 Connect With Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/neha-priya-singh)  
+- 📧 nehasingh.datasci@gmail.com  
+
+🚀 **Let's collaborate and build something impactful!**
