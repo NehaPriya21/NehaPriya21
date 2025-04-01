@@ -4,7 +4,7 @@
 
 ### 🔍 About Me  
 - Passionate about **data analytics, business analysis, product analysis & management, data automation, and data science,**  
-- Skilled in **Python, SQL, Excel, Power BI, Tableau, Microsoft 365 ML, NLP, and Data Visualization**  
+- Skilled in **Python, SQL, Excel, Power BI, Tableau, Microsoft 365, ML, NLP, and Data Visualization**  
 - Exploring **GenAI, Prompt Engineering, Business Intelligence, and CRM automation**  
 
 ### 🛠️ What I Do  
