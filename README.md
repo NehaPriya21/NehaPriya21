@@ -3,9 +3,9 @@
 ## 🚀 Technology Manager | Data Scientist | Product & Business Analyst  
 
 ### 🔍 About Me  
-- Passionate about **data science, analytics, product management, and automation**  
-- Skilled in **Python, SQL, Power BI, Tableau, ML, NLP, and Data Visualization**  
-- Exploring **AI, Business Intelligence, and CRM automation**  
+- Passionate about **data analytics, business analysis, product analysis & management, data automation, and data science,**  
+- Skilled in **Python, SQL, Excel, Power BI, Tableau, Microsoft 365 ML, NLP, and Data Visualization**  
+- Exploring **GenAI, Prompt Engineering, Business Intelligence, and CRM automation**  
 
 ### 🛠️ What I Do  
 - **🔍 Data Analytics & Visualization** – Transforming raw data into actionable insights  
