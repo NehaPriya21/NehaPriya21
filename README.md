@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Neha Priya Singh
 
-## 🚀 Technology Manager | Data Scientist | Product & Business Analyst  
+## 🚀 Technology Manager | Data Aanlyst | Product & Business Analyst |  Data Science
 
 ### 🔍 About Me  
 - Passionate about **data analytics, business analysis, product analysis & management, data automation, and data science,**  
